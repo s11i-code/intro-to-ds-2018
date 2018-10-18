@@ -12,13 +12,13 @@ The average customer disposes 40g of biowaste per meal. This may not sounds like
 
 We wanted to draw attention to this problem that we think most youth overlook. What better way than an ad campaign? 
 
-![Poster 1](https://github.com/satueveliina/intro-to-ds-2018/blob/master/food_waste_1_en.png) 
-![Poster 2](https://github.com/satueveliina/intro-to-ds-2018/blob/master/food_waste_1_fi.png)
+![Poster 1](./food_waste_1_en.png) 
+![Poster 2](./food_waste_1_fi.png)
 
 By drawing on UniCafe's food waste data, we created posters to visualize and hopefully inspire an emotional response in the people that view this poster (which we believe would be best placed before people serve themselves food).
 
-![Poster 3](https://github.com/satueveliina/intro-to-ds-2018/blob/master/food_waste_2_en.png) 
-![Poster 4](https://github.com/satueveliina/intro-to-ds-2018/blob/master/food_waste_2_fi.png)
+![Poster 3](./food_waste_2_en.png) 
+![Poster 4](./food_waste_2_fi.png)
 
 
 ### Customer Feedback
