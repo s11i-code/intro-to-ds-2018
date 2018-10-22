@@ -12,7 +12,7 @@ UniCafe was kind enough to give their Kumpula coffee sales data from 4.1.2016 to
 
 We downloaded a weather dataset measured <strong>in Kumpula</strong> from the <a href='https://en.ilmatieteenlaitos.fi/download-observations#!/'>Finnish Meteorological Institute</a>.
 
-The data contained hourly measurements, from which we extracted hours between 10-15 and averaged those to obtain a value that would best capture the weather during the time of the day when UniCafe sells coffee.
+The data contained hourly measurements, from which we extracted hours between 8-16 and averaged those to obtain a value that would best capture the weather during the time of the day when UniCafe sells coffee.
 
 The weather analysis was based on three variables:
 - Cloud amount (okta)
